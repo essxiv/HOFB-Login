@@ -1,0 +1,24 @@
+{
+  "name": "hofb-login",
+  "version": "1.0.0",
+  "description": "UI/uX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://essxiv@bitbucket.org/essxiv/hofb-login.git"
+  },
+  "keywords": [
+    "static"
+  ],
+  "author": "greg hasenauer, gabriel pacheco",
+  "license": "UNLICENSED",
+  "homepage": "https://bitbucket.org/essxiv/hofb-login#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jquery": "^3.2.1"
+  }
+}

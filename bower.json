@@ -1,0 +1,26 @@
+{
+  "name": "hofb-login",
+  "description": "UI/uX",
+  "main": "index.js",
+  "authors": [
+    "greg hasenauer",
+    "gabriel pacheco"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "static"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
